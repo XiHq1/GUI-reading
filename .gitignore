@@ -1,0 +1,19 @@
+# 本地 PDF（版权与体积原因不入库）
+papers/*.pdf
+papers/**/*.pdf
+
+# Office 与压缩包
+*.docx
+*.zip
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.obsidian/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
