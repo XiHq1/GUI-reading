@@ -19,7 +19,6 @@
 | 13 | 2025 NeurIPS | OpenCUA | 开放 CUA 数据/模型 | 评测任务与数据扩展 | 待读 | — |
 | 14 | 2026 ICLR | VideoAgentTrek | 轨迹数据 | 轨迹数据与测试时扩展 | 待读 | — |
 
-> 说明：未标链接的论文暂未核对公开链接，先以本地 PDF 为准（见 [papers/README.md](papers/README.md)）。补链接时请核对 arXiv 页面标题，避免张冠李戴。
 
 ## 按主题分组
 
