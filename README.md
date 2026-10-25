@@ -60,6 +60,7 @@ GUI-reading/
 |---|---|---|---|
 | WebArena | 2024 ICLR | [中文笔记](notes/webarena/webarena.zh-CN.md) | 已读 |
 | Mind2Web | 2023 NeurIPS | [笔记](notes/MIND2WEB_Towards_a_Generalist_Agent_for_the_Web/MIND2WEB_Towards_a_Generalist_Agent_for_the_Web.md) | 已读 |
+| OSWorld | 2024 NeurIPS | [笔记](notes/OSWorld/OSWorld_Benchmarking_Multimodal_Agents_for_Open_Ended_Tasks_in_Real_Computer_Environments.md) | 已读 |
 | 其余 12 篇 | — | 待补 | 待读 |
 
 > PDF 不纳入版本库，本地保存在 `papers/`（已在 `.gitignore` 中排除）。

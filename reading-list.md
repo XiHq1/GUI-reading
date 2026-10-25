@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 | 1 | 2024 ICLR | [WebArena](https://arxiv.org/abs/2307.13854) | 真实网页环境与基准 | 主实验环境候选：reset、功能判分、长程任务 | 已读 | [笔记](notes/webarena/webarena.zh-CN.md) |
 | 2 | 2023 NeurIPS | [Mind2Web](https://arxiv.org/abs/2306.06070) | 网页 agent 数据集 | 理解离线元素选择与跨站/跨域泛化 | 已读 | [笔记](notes/MIND2WEB_Towards_a_Generalist_Agent_for_the_Web/MIND2WEB_Towards_a_Generalist_Agent_for_the_Web.md) |
-| 3 | 2024 NeurIPS | [OSWorld](https://arxiv.org/abs/2404.07972) | 桌面 OS 环境 | 桌面扩展；执行式评测与虚拟机快照 | 待读 | — |
+| 3 | 2024 NeurIPS | [OSWorld](https://arxiv.org/abs/2404.07972) | 桌面 OS 环境 | 桌面扩展；执行式评测与虚拟机快照 | 已读 | [笔记](notes/OSWorld/OSWorld_Benchmarking_Multimodal_Agents_for_Open_Ended_Tasks_in_Real_Computer_Environments.md) |
 | 4 | 2024 ACL | [SeeClick](https://arxiv.org/abs/2401.10935) | 视觉 GUI grounding | grounding 背景；截图定位 | 待读 | — |
 | 5 | 2025 ICLR | [UGround](https://arxiv.org/abs/2410.05243) | 统一视觉 grounding | grounding 底座候选；多候选一致性 | 待读 | — |
 | 6 | 2025 ICLR | [OS-Atlas](https://arxiv.org/abs/2410.23218) | 跨平台 grounding 数据 | 数据合成与跨平台迁移参考 | 待读 | — |
