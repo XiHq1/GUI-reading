@@ -12,7 +12,7 @@
 | 6 | 2025 ICLR | [OS-Atlas](https://arxiv.org/abs/2410.23218) | 跨平台 grounding 数据 | 数据合成与跨平台迁移参考 | 待读 | — |
 | 7 | 2025 MM | [ScreenSpot-Pro](https://arxiv.org/abs/2504.07981) | 高分辨率 grounding 基准 | 难度分层；3–5 天离线预实验 | 待读 | — |
 | 8 | 2025 CVPR | [ShowUI](https://arxiv.org/abs/2411.17465) | 轻量 VLM GUI agent | token 成本视角；轻量底座候选 | 待读 | — |
-| 9 | 2025 ICCV | RegionFocus | 区域放大 | “补观测”直接相关工作；observe 基线 | 待读 | — |
+| 9 | 2025 ICCV | RegionFocus | 区域放大 | “补观测”直接相关工作；observe 基线 | 已读 | [笔记](notes/regionFocus/Visual_Test_Time_Scaling_for_GUI_Agent_Grounding.md) |
 | 10 | 2025 ICLR | [Agent S](https://arxiv.org/abs/2410.08164) | 经验检索式 agent | 强基线；经验检索可视为一种追加推理 | 待读 | — |
 | 11 | 2026 ACL | OS-Symphony | 里程碑触发反思 | “触发时机”的对照；反思状态记录 | 待读 | — |
 | 12 | 2026 ICML | GUI-Cursor | 学习式多步交互 | 自适应投入的对照；多步光标策略 | 待读 | — |
