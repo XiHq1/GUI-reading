@@ -15,7 +15,7 @@
 | 9 | 2025 ICCV | RegionFocus | 区域放大 | “补观测”直接相关工作；observe 基线 | 已读 | [笔记](notes/regionFocus/Visual_Test_Time_Scaling_for_GUI_Agent_Grounding.md) |
 | 10 | 2025 ICLR | [Agent S](https://arxiv.org/abs/2410.08164) | 经验检索式 agent | 强基线；经验检索可视为一种追加推理 | 待读 | — |
 | 11 | 2026 ACL | OS-Symphony | 里程碑触发反思 | “触发时机”的对照；反思状态记录 | 待读 | — |
-| 12 | 2026 ICML | GUI-Cursor | 学习式多步交互 | 自适应投入的对照；多步光标策略 | 待读 | — |
+| 12 | 2026 ICML | GUI-Cursor | 学习式多步交互 | 自适应投入的对照；多步光标策略 | 已读 | [笔记](notes/GUI-Cursor/Learning_GUI_Grounding_with_Spatial_Reasoning_from_Visual_Feedback.md) |
 | 13 | 2025 NeurIPS | OpenCUA | 开放 CUA 数据/模型 | 评测任务与数据扩展 | 待读 | — |
 | 14 | 2026 ICLR | VideoAgentTrek | 轨迹数据 | 轨迹数据与测试时扩展 | 待读 | — |
 
